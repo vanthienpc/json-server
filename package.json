@@ -1,0 +1,19 @@
+{
+	"name": "json-server",
+	"version": "1.0.0",
+	"description": "Fake Restful API withjson-server",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"now:deploy": "now"
+	},
+	"keywords": [
+		"json-server",
+		"restful-api"
+	],
+	"author": "Thien Vo (vanthienpc@gmail.com)",
+	"license": "ISC",
+	"dependencies": {
+		"json-server": "^0.15.1"
+	}
+}
