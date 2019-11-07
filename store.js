@@ -1,6 +1,7 @@
 module.exports = () => {
 	const store = {
-		loan: []
+		loan: [],
+		collection: []
 	};
 	return store;
 };
